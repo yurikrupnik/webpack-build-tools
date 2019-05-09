@@ -1,13 +1,13 @@
 {
   "name": "webpack-build-tools",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Generic build tools for node projects via webpack.",
   "main": "src/index.js",
   "filess": [
     "dist"
   ],
   "bin": {
-    "build-tools": "src/index.js"
+    "webpack-build-tools": "src/index.js"
   },
   "scripts": {
     "prebuild": "rimraf dist",
