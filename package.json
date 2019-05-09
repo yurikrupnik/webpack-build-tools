@@ -1,6 +1,6 @@
 {
   "name": "webpack-build-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generic build tools for node projects via webpack.",
   "main": "dist/main.js",
   "module": "dist/main.js",
@@ -9,7 +9,7 @@
     "dist"
   ],
   "bin": {
-    "build-tools": "dist/main.js"
+    "build-tools": "src/main.js"
   },
   "scripts": {
     "prebuild": "rimraf dist",
