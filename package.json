@@ -1,9 +1,8 @@
 {
   "name": "webpack-build-tools",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Generic build tools for node projects via webpack.",
   "main": "src/index.js",
-  "module": "src/main.js",
   "sideEffects": false,
   "filess": [
     "dist"
