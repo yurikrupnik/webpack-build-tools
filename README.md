@@ -9,4 +9,7 @@
 ![peerDependencies Status](https://david-dm.org/yurikrupnik/webpack-build-tools/peer-status.svg)
 
 # webpack-webpack-build-tools
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/yurikrupnik/webpack-build-tools.svg)](https://greenkeeper.io/)
+
 Generic build tools for node projects via webpack.
